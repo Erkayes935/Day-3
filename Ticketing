@@ -1,0 +1,29 @@
+Jira :
+* Dibuat oleh Perusahaan Atlassian
++ Fitur lebih banyak dan kompleks
++ Cocok untuk metode scrum dan kanban
++ Mudah Digunakan
+- Harga Mahal
+- Masih ada bug
+- Lambat saat akses website
+
+Trello :
+* Dibuat oleh Perusahaan Atlassian
++ Sistem notifikasi lebih baik
++ Tampilan Menarik dan responsif
++ Gratis (ada juga opsi berbayar)
+- Cocok untuk metode agile
+- Fitur terbatas
+- Integrasi dengan aplikasi lain terbatas
+
+Youtrack :
+* Dibuat oleh Perusahaan Jetbrains
++ Terdapat fitur reaksi emotikon di komentar
++ Cocok untuk metode agile yang lebih analitis
++ Akses website mudah dan cepat 
+- Fitur terbatas
+- Tampilan Sulit Dimengerti
+- Harga berdasarkan penyimpanan
+
+
+Kesimpulan : Refactory mengadaptasi ticketing tools dari Jira dan Trello
